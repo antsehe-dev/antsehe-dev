@@ -1,4 +1,4 @@
-# Hola, soy Antonio 👋
+# Hola, soy Antonio
 
 Desarrollador en el **Innovation Lab de Softtek**, donde investigo y prototipo soluciones basadas en IA usando metodologías como **AI-DLC**.
 
