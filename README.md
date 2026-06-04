@@ -6,7 +6,7 @@ Desarrollador en el **Innovation Lab de Softtek**, donde investigo y prototipo s
 
 🌱 Actualmente profundizando en Python y su ecosistema ML  
 
-💼 Software Developer @Softtek
+💼 Software Developer
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
