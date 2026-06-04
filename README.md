@@ -3,8 +3,11 @@
 Desarrollador en el **Innovation Lab de Softtek**, donde investigo y prototipo soluciones basadas en IA usando metodologías como **AI-DLC**.
 
 🔭 Explorando nuevas formas de integrar IA en productos reales  
+
 🌱 Actualmente profundizando en Python y su ecosistema ML  
-💼 Software Developer @ Softtek
+
+💼 Software Developer @Softtek
+
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 ---
